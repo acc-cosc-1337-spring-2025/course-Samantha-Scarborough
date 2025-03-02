@@ -12,7 +12,7 @@ int factorial(int num) {
     return result;
 }
 
-// Function to calculate GCD using a loop (Euclidean algorithm)
+// Function to calculate GCD using with a loop 
 int gcd(int a, int b) {
     while (b != 0) {
         int temp = b;
