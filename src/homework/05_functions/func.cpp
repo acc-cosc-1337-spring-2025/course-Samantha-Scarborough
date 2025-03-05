@@ -5,10 +5,6 @@
 using namespace std;
 
 //add function code here
-double get_gc_content(const string& dna);
-string reverse_string(string dna);
-string get_dna_complement(string dna);
-
 int main() {
     int choice;
     string dna;
